@@ -1,0 +1,4 @@
+address: "nats://127.0.0.1:4222"
+cluster: "wb-practice"
+channel: "lzero"
+user: ""
