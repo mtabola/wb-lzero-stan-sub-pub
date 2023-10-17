@@ -1,4 +1,4 @@
-#WB-Lzero-StanSubPub-Handler
+# WB-Lzero-StanSubPub-Handler
 Разработан стажером компании Wildberries Таболой Михаилом.
 
 ## Команды для запуска сервера
